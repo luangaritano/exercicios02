@@ -1,4 +1,5 @@
-Introdução
+*Introdução*
+
 Este projeto é uma série de exercícios práticos para aprender a manipular objetos e arrays em JavaScript. Utilizando o Node.js e a biblioteca prompt, estes exercícios cobrem uma ampla gama de técnicas de programação, incluindo iteração, filtragem, e manipulação de dados. Este README fornece um guia sobre como configurar o ambiente de desenvolvimento e executar os exercícios.
 
 Tecnologias Utilizadas
